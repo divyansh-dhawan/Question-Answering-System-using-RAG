@@ -35,7 +35,7 @@ No complex setup required—all dependencies are managed within the notebook.
 
 ### Notebook
 
-1. Open the provided notebook (`Easy_RAG_System_Colab.ipynb` or `QA_RAG.ipynb`) in Google Colab.
+1. Open the provided notebook (`Easy_RAG_System_Colab.ipynb`) in Google Colab.
 2. Add documents to the knowledge base:
     ```python
     rag.add_documents(["Your custom document text here"])
@@ -80,20 +80,6 @@ No complex setup required—all dependencies are managed within the notebook.
 Currently, public contributions are not enabled for the notebooks.
 
 - If open-sourcing in the future, please consider adding a `CONTRIBUTING.md` and a code of conduct.
-
----
-
-## License
-
-*No license specified.*  
-If open-sourcing, we recommend an [MIT License](https://opensource.org/licenses/MIT) or [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-
----
-
-## Contact
-
-*Contact information not specified.*  
-If you would like to add contact details, please specify your email or preferred method of contact.
 
 ---
 
